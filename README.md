@@ -22,6 +22,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunj24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- This is a extra by chatgpt -->
+
+### ⚡ Activity Graph
+[![Kunj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunj24&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📈 Contribution Stats
+![](https://github-contributor-stats.vercel.app/api?username=kunj24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+### 🚀 Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunj24&theme=github_dark)
+
+<!-- upto here  activity to profile summary is given by chatgpt-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

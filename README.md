@@ -43,8 +43,20 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kunj24&show_icons=true)
+
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=kunj24)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=kunj24&no-frame=true)
+
+
 ## 📊 GitHub Stats:
 ![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunj24&show_icons=true&theme=dark)
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kunj24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunj24&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -56,6 +68,7 @@
 
 ### ⚡ Activity Graph
 [![Kunj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunj24&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 📈 Contribution Stats
 ![](https://github-contributor-stats.vercel.app/api?username=kunj24&limit=5&theme=dark&combine_all_yearly_contributions=true)

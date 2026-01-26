@@ -3,7 +3,7 @@
 **I'm Kunj Mungalpara, a passionate developer based in India.**
 
 
-- 🔭 I’m currently working on **[ElectroTrack](https://github.com/kunj24/Electrotrack)**
+- 🔭 I’m currently working on **[portfolio](https://github.com/kunj24/portfolio)**
 - 🌱 I’m currently learning **JavaScript, Machine Learning, and Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **open-source web development projects**
 - 💬 Ask me about **Web Development and Tech**

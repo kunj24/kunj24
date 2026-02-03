@@ -45,11 +45,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kunj24&show_icons=true)
 
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=kunj24)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kunj24&no-frame=true)

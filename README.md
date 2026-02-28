@@ -13,6 +13,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-mungalpara-539b3a293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunj.24.mungalpara@gmail.com) 
 
+
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kunj24&color=blueviolet)

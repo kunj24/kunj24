@@ -58,10 +58,15 @@
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kunj24&theme=dark&hide_border=false)<br/>
+<!-- deepseek -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kunj24&theme=dark)](https://git.io/streak-stats)
+<!-- deepseek -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunj24&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunj24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!-- This is a extra by chatgpt -->
 

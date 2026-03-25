@@ -4,6 +4,7 @@
 
 
 
+
 - 🔭 I’m currently working on **[portfolio](https://github.com/kunj24/portfolio)** && **[PPE_Detection](https://github.com/kunj24/PPE_Detection)**
 - 🌱 I’m currently learning **JavaScript, Machine Learning, and Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **open-source web development projects**

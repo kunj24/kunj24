@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **JavaScript, Machine Learning, and Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **open-source web development projects**
 - 💬 Ask me about **Web Development and Tech**
-- 📫 How to reach me: **kunj.24.mungalpara@gmail.com**
+- 📫 How to reach me: **kunjmungalpara24@gmail.com**
 - ⚡ Fun fact: **I have a ritual of writing a "Hello, World!" program in every new language I learn.**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-mungalpara-539b3a293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunjmungalpara24@gmail.com) 

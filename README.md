@@ -12,7 +12,7 @@
 - 📫 How to reach me: **kunj.24.mungalpara@gmail.com**
 - ⚡ Fun fact: **I have a ritual of writing a "Hello, World!" program in every new language I learn.**
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-mungalpara-539b3a293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunj.24.mungalpara@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-mungalpara-539b3a293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunjmungalpara24@gmail.com) 
 
 ## 👀 Profile Views
 
